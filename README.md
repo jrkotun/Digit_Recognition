@@ -1,6 +1,6 @@
 # Digit Recognition
 
-This project implements a digit recognition system with an interactive GUI, allowing users to draw digits using a mousepad. The drawn input is processed and fed into a neural network, trained on the MNIST dataset, to predict the handwritten digit.
+This project implements a digit recognition system in Java with an interactive GUI, allowing users to draw digits using a mousepad. The drawn input is processed and fed into a neural network, trained on the MNIST dataset, to predict the handwritten digit.
 
 ## Project Description
 
