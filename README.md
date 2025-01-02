@@ -26,7 +26,7 @@ Follow the steps below to set up and run the digit recognition system in Eclipse
 1. **Clone the Repository**
 Clone the project repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/digit-recognition-system.git
+git clone https://github.com/jrkotun/Digit_Recognition.git
 ```
 
 2. **Import Project into Eclipse**  
@@ -40,7 +40,7 @@ git clone https://github.com/your-username/digit-recognition-system.git
    - If dependencies are missing, right-click the project in the `Package Explorer` and select `Maven > Update Project`.
 
 4. **Run the Application**  
-   1. Open the `DigitRecognition.java` file in `src/main/java/com/DigitRecognition`.
+   1. Open the `DigitRecognition.java` file in `DigitRecognition/src/com/DigitRecognition`.
    2. Right-click anywhere in the editor and select `Run As > Java Application`.
 
 ### Usage
